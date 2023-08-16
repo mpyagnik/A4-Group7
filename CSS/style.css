@@ -53,6 +53,10 @@ label {
     
 }
 
+.weatherInput h2{
+    color: #007BFF;
+}
+
 button {
     padding: 10px 20px;
     background-color: #007BFF;
